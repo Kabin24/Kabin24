@@ -16,7 +16,7 @@ Hello there! 👋 I'm kabin, a dedicated student on a journey to master both fro
 I'm always excited to connect with fellow learners, developers, and data enthusiasts. Feel free to reach out to me through the following channels:
 
 - GitHub: https://github.com/Kabin24
-- LinkedIn: linkedin.com/in/kabin-shrestha-029062222
+- LinkedIn: 
 - Email:
 
 Let's connect, share knowledge, and grow together on this exciting journey of learning and exploration! 😊
