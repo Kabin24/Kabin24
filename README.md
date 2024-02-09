@@ -1,8 +1,6 @@
 ## About Me
 
-Hello there! 👋 I'm kabin, a dedicated student on a journey to master both frontend development and future data science. Currently, I'm exploring the world of web development and actively learning about modern frontend technologies and best practices.
-
-
+Hello there! 👋 I'm kabin
 
 🌐 I'm passionate about crafting beautiful, user-friendly web experiences. 
 
@@ -16,7 +14,7 @@ Hello there! 👋 I'm kabin, a dedicated student on a journey to master both fro
 I'm always excited to connect with fellow learners, developers, and data enthusiasts. Feel free to reach out to me through the following channels:
 
 - GitHub: https://github.com/Kabin24
-- LinkedIn: 
-- Email:
+- LinkedIn: https://www.linkedin.com/in/kabin-shrestha-029062222/
+- Email: kabinshrestha377@gmail.com
 
 Let's connect, share knowledge, and grow together on this exciting journey of learning and exploration! 😊
