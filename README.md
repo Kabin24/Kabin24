@@ -1,8 +1,12 @@
 # 👋 Hey, I'm Kabin Shrestha!
 
-**Software Developer | Data Enthusiast**
+**Software Developer || Full Stack Developer**
 
-Welcome to my GitHub! I'm a Full-Stack Developer passionate about building scalable, user-focused web applications with the MERN stack and a Data Enthusiast who loves uncovering stories in data. From dynamic job portals to data visualizations, I blend code and analytics to create impactful solutions. 🚀
+Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on transforming complex ideas into elegant, high-performance web applications.
+
+My expertise spans from designing intuitive, responsive front-end interfaces with React to architecting robust, secure back-end services with Node.js and Express. I am particularly focused on creating full-stack solutions that are both scalable and deliver a seamless user experience.
+
+I'm continuously exploring new technologies and methodologies to enhance my craft and build software that makes a real impact. 🚀
 
 ---
 
@@ -10,7 +14,6 @@ Welcome to my GitHub! I'm a Full-Stack Developer passionate about building scala
 
 
 - 💻 **Development**: Crafting full-stack apps with MongoDB, Express.js, React, and Node.js.  
-- 📊 **Data Passion**: Analyzing datasets and creating visualizations to reveal trends.  
 - 🌱 **Learning**: Currently exploring with TypeScript, GraphQL, Docker, and Next.js.
 - 🎯 **Mission**: To create seamless web experiences and unlock data’s potential.
 
