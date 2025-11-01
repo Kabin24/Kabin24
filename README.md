@@ -56,7 +56,7 @@ I'm continuously exploring new technologies and methodologies to enhance my craf
 I’m excited to collaborate on code, data projects, or tech ideas. Reach out via:
 
 - 🌐 **GitHub**: [Kabin24](https://github.com/Kabin24)  
-- 💼 **LinkedIn**: [Kabin Shrestha]([https://linkedin.com/in/kabinshrestha](https://www.linkedin.com/in/kabin-shrestha-029062222/))  
+- 💼 **LinkedIn**: [Kabin Shrestha](https://linkedin.com/in/kabinshrestha])  
 - 📧 **Email**: kabinshrestha377@gmail.com  
 
 > *“Code shapes the future; data reveals its secrets—let’s build and explore!”*
